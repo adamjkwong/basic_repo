@@ -1,0 +1,8 @@
+I made a repo on github web gui
+i made a local repo
+i made some files
+i commmited them
+
+i then changed my files
+re-committed
+and now i'm linking this to complete my last homework assignment for web fundamentals!
